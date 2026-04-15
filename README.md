@@ -1,6 +1,7 @@
 https://www.youtube.com/watch?v=8uiZC0l4Ajw
 
 0:00 Introduction to Golang
+<br />
 6:25 Constants Variables and Basic Data Types
 13:14 Functions and Control Structures
 19:30 Arrays, Slices, Maps and Loops
