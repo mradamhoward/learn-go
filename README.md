@@ -1,6 +1,7 @@
-Learn GO Fast: Full Tutorial
+<h1>Learn GO Fast: Full Tutorial</h1>
 <br />
-https://www.youtube.com/watch?v=8uiZC0l4Ajw
+
+<a href="https://www.youtube.com/watch?v=8uiZC0l4Ajw<">https://www.youtube.com/watch?v=8uiZC0l4Ajw</a>
 <br />
 0:00 Introduction to Golang
 <br />
